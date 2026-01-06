@@ -1,0 +1,14 @@
+D:\Angular & ASP.NET\API\Collection\Collection\bin\Debug\net8.0\Collection.exe
+D:\Angular & ASP.NET\API\Collection\Collection\bin\Debug\net8.0\Collection.deps.json
+D:\Angular & ASP.NET\API\Collection\Collection\bin\Debug\net8.0\Collection.runtimeconfig.json
+D:\Angular & ASP.NET\API\Collection\Collection\bin\Debug\net8.0\Collection.dll
+D:\Angular & ASP.NET\API\Collection\Collection\bin\Debug\net8.0\Collection.pdb
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.AssemblyInfoInputs.cache
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.AssemblyInfo.cs
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.csproj.CoreCompileInputs.cache
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.dll
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\refint\Collection.dll
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.pdb
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.genruntimeconfig.cache
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\ref\Collection.dll
