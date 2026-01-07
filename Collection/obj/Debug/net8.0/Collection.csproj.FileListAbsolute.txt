@@ -7,6 +7,7 @@ D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.Gener
 D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.AssemblyInfoInputs.cache
 D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.AssemblyInfo.cs
 D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.csproj.CoreCompileInputs.cache
+D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.sourcelink.json
 D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.dll
 D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\refint\Collection.dll
 D:\Angular & ASP.NET\API\Collection\Collection\obj\Debug\net8.0\Collection.pdb
